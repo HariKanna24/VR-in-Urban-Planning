@@ -1,0 +1,49 @@
+<html>
+
+<head>
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+</head>
+
+<body>
+  <a-scene>
+    <a-plane position="0 -0.05 0" rotation="-90 0 0" scale="100 50 100" material="src:grass.jpg"></a-plane>
+    <a-gltf-model src="assets/street_model/scene.gltf" position="-0.56 0 6.298" rotation="0 0 0"
+      scale="0.266 0.050 0.105">
+    </a-gltf-model>
+    <a-gltf-model src="assets/street_light/scene.gltf" position="12.13 0.262 3.809" rotation="0 0 0"
+      scale="0.25 0.25 0.25">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/street_light/scene.gltf" position="6 0.262 3.809" rotation="0 0 0" scale="0.25 0.25 0.25">
+    </a-gltf-model>
+    <a-gltf-model src="assets/street_light/scene.gltf" position="0 0.262 3.809" rotation="0 0 0" scale="0.25 0.25 0.25">
+    </a-gltf-model>
+    <a-gltf-model src="assets/street_light/scene.gltf" position="-6 0.262 3.809" rotation="0 0 0"
+      scale="0.25 0.25 0.25">
+    </a-gltf-model>
+
+ <a-gltf-model src="assets/street_light/scene.gltf" position="-12 0.262 3.809" rotation="0 0 0"
+      scale="0.25 0.25 0.25">
+    </a-gltf-model>
+
+
+    <a-gltf-model src="assets/building/scene.gltf" position="0 0 -3" rotation="0 " scale="0.25 0.25 0.25">
+    </a-gltf-model>
+    <!--     <a-camera position="0 1.6 0"></a-camera> -->
+    <a-sky src="2k_stars.jpg"></a-sky>
+    <a-plane position="0 0 -4" rotation="-90 0 0" width="25" height="25" color="#17202A"></a-plane>
+<!-- car-->
+    <a-gltf-model position="-10.8 0.406 7.623" rotation="0 90 0" scale="0.25 0.25 0.25" src="assets/car2/scene.gltf"></a-gltf-model>
+
+     <a-gltf-model position="0 0.4 6" rotation="0 -90 0" scale="0.25 0.25 0.25" src="assets/car2/scene.gltf"></a-gltf-model>
+    <!-- Light-->
+    <a-light  type="spot" rotation="-90 0 0" color="#ffffff" position="0 4 4.25" scale="1 1 1"></a-light>
+     <a-light  type="spot" rotation="-90 0 0" color="#f06305" position="-6 4 4.25" scale="1 1 1"></a-light>
+     <a-light  type="spot" rotation="-90 0 0" color="#731ec8" position="-12 4 4.25" scale="1 1 1"></a-light>
+     <a-light  type="spot" rotation="-90 0 0" color="#2d8f58" position="6 4 4.25" scale="1 1 1"></a-light>
+     <a-light  type="spot" rotation="-90 0 0" color="#0062ff" position="12 4 4.25" scale="1 1 1"></a-light>
+<a-light type="ambient" color="#a28b8b"></a-light>
+  </a-scene>
+</body>
+
+</html>
