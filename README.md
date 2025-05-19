@@ -4,7 +4,7 @@ This project demonstrates how **Virtual Reality (VR)** can enhance urban plannin
 
 ## 🧰 Tools & Technologies Used
 
-- **[A-Frame](https://aframe.io/)**: Web framework for building VR experiences using HTML.
+- **A-Frame**: Web framework for building VR experiences using HTML.
 - **Replit**: Cloud-based IDE used to write and deploy the VR environment.
 - **Trinus VR**: Used to stream the VR experience to mobile VR headsets.
 - **3D Modeling Tools**: Models created/exported using tools like **Blender**, **SketchUp**, or **Autodesk Revit** in `.gltf` format.
@@ -25,4 +25,4 @@ This project demonstrates how **Virtual Reality (VR)** can enhance urban plannin
 
 ## 🌐 Live Demo
 
-👉 https://c85691cc-19c9-48b3-b8f9-29ebbf832768-00-2a7wq6pt9hhx2.pike.replit.dev/
+👉 [VR Preview](https://c85691cc-19c9-48b3-b8f9-29ebbf832768-00-2a7wq6pt9hhx2.pike.replit.dev/)
