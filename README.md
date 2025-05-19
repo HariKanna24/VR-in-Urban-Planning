@@ -25,4 +25,4 @@ This project demonstrates how **Virtual Reality (VR)** can enhance urban plannin
 
 ## 🌐 Live Demo
 
-👉 [View on Replit](https://nocturnalserenecryptos.ishanna.repl.co/) 
+👉 https://c85691cc-19c9-48b3-b8f9-29ebbf832768-00-2a7wq6pt9hhx2.pike.replit.dev/
