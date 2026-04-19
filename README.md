@@ -25,4 +25,4 @@ This project demonstrates how **Virtual Reality (VR)** can enhance urban plannin
 
 ## 🌐 Live Demo
 
-👉 [VR Preview](https://c85691cc-19c9-48b3-b8f9-29ebbf832768-00-2a7wq6pt9hhx2.pike.replit.dev/)
+👉 [VR Preview](https://urban-planning-vr--Haresh424.replit.app)
